@@ -1,0 +1,15 @@
+{
+  "name": "simple_mod_patterns_and_testing",
+  "version": "1.0.0",
+  "description": "Simple Modular Patterns and Testing",
+  "main": "hello_world.js",
+  "scripts": {
+    "test": "/test/greet_test.js"
+  },
+  "author": "Gene Troy",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
