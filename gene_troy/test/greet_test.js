@@ -1,3 +1,5 @@
+/*eslint-env mocha */
+
 var hello = require(__dirname + '/../hello');
 var expect = require('chai').expect;
 
